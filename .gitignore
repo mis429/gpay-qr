@@ -1,0 +1,4 @@
+.env
+qrcodes/
+__pycache__/
+*.pyc

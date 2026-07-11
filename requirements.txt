@@ -1,0 +1,4 @@
+razorpay>=1.4.2
+qrcode[pil]>=7.4
+python-dotenv>=1.0
+requests>=2.31
